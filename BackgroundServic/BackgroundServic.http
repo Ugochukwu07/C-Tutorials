@@ -1,0 +1,6 @@
+@BackgroundServic_HostAddress = http://localhost:5244
+
+GET {{BackgroundServic_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
